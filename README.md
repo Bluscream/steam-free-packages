@@ -11,3 +11,8 @@ To use steam-free-packages:
 6. Minimize if you wish and it will periodically request free packages for your steam account
 
 Good luck!
+
+<details><summary>Screenshot</summary>
+
+![](https://i.imgur.com/NAkGjoX.png)
+</summary>
